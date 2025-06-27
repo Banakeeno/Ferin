@@ -6294,7 +6294,7 @@ struct QuizView: View {
             QuizQuestion(
                 kurdishWord: "Navê min ... e",
                 correctAnswer: "My name is…",
-                options: ["My name is…", "I am from…", "I am fine", "Nice to meet you"]
+                options: ["My name is…", "I'm from…", "I'm fine", "Nice to meet you"]
             ),
             QuizQuestion(
                 kurdishWord: "Ez kêfxweş bûm ku te nas kirim",
