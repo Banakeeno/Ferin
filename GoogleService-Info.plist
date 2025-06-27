@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBfd84qOj0hCbVOp8yKiJd7uO6sw5K0Zd0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>925662821593</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Alo.bankin.Ferin</string>
+	<key>PROJECT_ID</key>
+	<string>ferin-a643e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ferin-a643e.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:925662821593:ios:692e19ae8d11b46e03d2c8</string>
+</dict>
+</plist>
